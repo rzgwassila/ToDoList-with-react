@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import "./box.css";
 
+
+// il faut expliquer ce code :::
 export default function Box() {
   const [tasks, setTasks] = useState([
     "Algo",

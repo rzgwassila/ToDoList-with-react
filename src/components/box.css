@@ -3,12 +3,12 @@
     padding : 0;
 }
 body{
-    background-color: #ffb5b5;
+    background-color: #b6cdbd;
 }
 
 .box{
-    background-color: #ffcbcb;
-    border: 2px solid #ffcbcb;
+    background-color: #5c715e;
+    border: 2px solid #5c715e;
     border-radius: 30px;
     padding: 1rem 2rem;
    
@@ -21,41 +21,41 @@ body{
 }
 button{
     border-radius: 30px;
-    background-color:#ffb5b5;
-    color: rgb(66, 62, 62);
+    background-color:#b6cdbd;
+    color: #5c715e;
     
 }
 button:hover{
     border-radius: 30px;
-    background-color:  #ffcbcb;
-    border: 1px solid #ffb5b5;
-    color :rgb(66, 62, 62);
+    background-color:  #5c715e;
+    border: 1px solid #b6cdbd;
+    color :rgb(224, 219, 219);
 }
 input:focus {
     outline: none;
-    border: 2px solid #ffb5b5;
+    border: 2px solid #b6cdbd;
     border-radius: 50px;
-    background-color:  #ffcbcb ;
-    color:rgb(66, 62, 62);
+    background-color:  #5c715e ;
+    color:rgb(194, 190, 190);
 }
 
 input{
     border: none;
-    background-color: #ffb5b5;
+    background-color: #b6cdbd;
     padding: 1rem 2rem;
-    border: 2px solid #ffb5b5;
+    border: 2px solid #b6cdbd;
     border-radius: 50px;
-    color:rgb(66, 62, 62)
+    color:#5c715e
 }
 
 input:hover{
     border: none;
-    background-color:   #ffcbcb;
+    background-color:   #5c715e;
     padding: 1rem 2rem;
     outline: none;
-    border: 2px solid #ffb5b5;
+    border: 2px solid #b6cdbd;
     border-radius: 50px;
-    color : rgb(66, 62, 62);
+    color: #b6cdbd;
    
 
 }
@@ -63,13 +63,15 @@ li{
     list-style: none;
     display: flex;
     justify-content: flex-start;
-    border: 1px solid #ffb5b5;
-    background-color: #ffb5b5;
+    border: 1px solid #b6cdbd;
+    background-color: #b6cdbd;
     margin: 10px auto;
     border-radius: 55px;
     padding: 10px 25px;
+    color:#5c715e
 }
 li:hover{
-    border: 2px solid #ffb5b5;
-    background-color: #ffcbcb;
+    border: 2px solid #b6cdbd;
+    background-color: #5c715e;
+    color: #b6cdbd;
 }
